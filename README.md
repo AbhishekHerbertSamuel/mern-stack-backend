@@ -6,3 +6,4 @@ Testing Jenkins Polling - Added this line to test Jenkins polling every minute.
 Testing webhook-only setup
 Triggering Jenkins Build
 Test new backend pipeline
+Testing SonarCloud integration
