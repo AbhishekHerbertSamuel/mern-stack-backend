@@ -10,3 +10,4 @@ Testing SonarCloud integration
 Testing SonarCloud integration after configuration fix
 Testing Sonar Scanner via Docker
 Testing updated pipeline configuration
+Testing GitHub Actions workflow with Docker and SonarCloud
