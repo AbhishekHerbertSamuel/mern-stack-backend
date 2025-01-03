@@ -14,3 +14,4 @@ Testing GitHub Actions workflow with Docker and SonarCloud
 Testing Jenkins SonarQube plugin integration
 Testing SonarQube Scanner plugin integration
 Testing SonarQube Scanner plugin integration
+Testing SonarQube Scanner via Jenkins plugin
