@@ -18,3 +18,4 @@ Testing SonarQube Scanner via Jenkins plugin
 Pipeline quality gate test
 Testing SonarCloud integration via Jenkins
 Testing SonarCloud integration via Jenkins
+Testing SonarCloud integration via Jenkins
