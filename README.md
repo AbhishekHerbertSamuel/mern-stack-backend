@@ -8,3 +8,4 @@ Triggering Jenkins Build
 Test new backend pipeline
 Testing SonarCloud integration
 Testing SonarCloud integration after configuration fix
+Testing Sonar Scanner via Docker
