@@ -9,3 +9,4 @@ Test new backend pipeline
 Testing SonarCloud integration
 Testing SonarCloud integration after configuration fix
 Testing Sonar Scanner via Docker
+Testing updated pipeline configuration
