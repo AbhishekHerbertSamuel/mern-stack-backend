@@ -13,3 +13,4 @@ Testing updated pipeline configuration
 Testing GitHub Actions workflow with Docker and SonarCloud
 Testing Jenkins SonarQube plugin integration
 Testing SonarQube Scanner plugin integration
+Testing SonarQube Scanner plugin integration
